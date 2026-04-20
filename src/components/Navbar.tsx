@@ -4,7 +4,7 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { Download, Menu, X, Zap } from "lucide-react";
+import { Download, Menu, X, Code2 } from "lucide-react";
 import { personalInfo } from "@/data/portfolio";
 import { GithubIcon, LinkedinIcon, TwitterIcon, LeetcodeIcon } from "@/components/SocialIcons";
 
@@ -63,7 +63,7 @@ export default function Navbar() {
               alignItems: "center",
               justifyContent: "center",
             }}>
-              <Zap size={16} color="white" />
+              <Code2 size={18} color="white" strokeWidth={2.5} />
             </div>
             <span style={{
               fontWeight: 700,
