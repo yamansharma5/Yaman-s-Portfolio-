@@ -84,24 +84,7 @@ export default function AboutPage() {
             >
               {/* Badge */}
               <motion.div variants={fadeUp} custom={0}>
-                <span
-                  style={{
-                    display: "inline-flex",
-                    alignItems: "center",
-                    gap: "6px",
-                    background: "rgba(14, 165, 233,0.12)",
-                    border: "1px solid rgba(14, 165, 233,0.3)",
-                    borderRadius: "100px",
-                    padding: "0.3rem 0.9rem",
-                    fontSize: "0.8rem",
-                    color: "#93c5fd",
-                    marginBottom: "1.25rem",
-                    fontWeight: 500,
-                  }}
-                >
-                  <Sparkles size={12} />
-                  Available for opportunities
-                </span>
+
               </motion.div>
 
               {/* Name */}
