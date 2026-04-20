@@ -227,7 +227,7 @@ export default function AboutPage() {
                   boxShadow: "0 0 20px rgba(14, 165, 233,0.2)",
                 }}
               >
-                <div style={{ fontSize: "1.4rem", fontWeight: 900, color: "var(--accent)", fontFamily: "var(--font-mono)" }}>4+</div>
+                <div style={{ fontSize: "1.4rem", fontWeight: 900, color: "var(--accent)", fontFamily: "var(--font-mono)" }}>2+</div>
                 <div style={{ fontSize: "0.68rem", color: "var(--text-muted)", whiteSpace: "nowrap", marginTop: "2px" }}>Years Coding</div>
               </div>
 
@@ -247,7 +247,7 @@ export default function AboutPage() {
                   boxShadow: "0 0 20px rgba(14, 165, 233,0.15)",
                 }}
               >
-                <div style={{ fontSize: "1.4rem", fontWeight: 900, color: "var(--accent-cyan)", fontFamily: "var(--font-mono)" }}>10+</div>
+                <div style={{ fontSize: "1.4rem", fontWeight: 900, color: "var(--accent-cyan)", fontFamily: "var(--font-mono)" }}>4+</div>
                 <div style={{ fontSize: "0.68rem", color: "var(--text-muted)", whiteSpace: "nowrap", marginTop: "2px" }}>Projects</div>
               </div>
 
